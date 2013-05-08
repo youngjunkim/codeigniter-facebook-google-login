@@ -3,12 +3,12 @@ Traditional and social authorization application.
 
 
 Demo
-====
+----
 http://demo01.localtom.com/
 
 
 Installation
-============
+------------
 * Upload files to your web server or local server.
 * configuration
 
@@ -22,7 +22,7 @@ Installation
 
 
 For Linux server
-================
+----------------
 * make all sub directory permission to 755 
 
   ```
@@ -37,7 +37,7 @@ For Linux server
   ```
 
 Based On
-========
+--------
 * Codeigniter 2.1.3
 
   https://github.com/EllisLab/CodeIgniter/
@@ -52,5 +52,5 @@ Based On
 
 
 License
-=======
+-------
 MIT License, CodeIgniter License
